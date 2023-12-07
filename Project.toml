@@ -1,0 +1,8 @@
+name = "EOProduct"
+uuid = "d3fb8aa2-abb6-4aab-926c-6e955a710f19"
+authors = ["Vincent Levasseur <vince.levasseur@protonmail.com>"]
+version = "0.1.0"
+
+[deps]
+YAXArrays = "c21b50f5-aa40-41ea-b809-c0f5e47bfa5c"
+Zarr = "0a941bbe-ad1d-11e8-39d9-ab76183a1d99"
